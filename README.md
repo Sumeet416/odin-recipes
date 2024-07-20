@@ -1,2 +1,2 @@
 # odin-recipes
-yummy receipes :)
+yummy recipes :)
